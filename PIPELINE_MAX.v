@@ -27,6 +27,7 @@ begin
 end
 
 assign max_val = (count == 2'b11) ? 1 : 0; 
+assign client_rdy = (max_rdy) ? 1 : 0; 
 
 P1 u1(.clk, .client_val, .client_data, .A(a), .B(b));
 P2 u2(.clk, .max_rdy, .A(a), .B(b), .result(r));
