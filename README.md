@@ -4,7 +4,6 @@
 |           :---:           |     :---:     |    :---:      |                                     :---:                                      |
 | DATA_WIDTH                | 8             | ≥ 1           | Size of the data                                                               |
 
-Ceas/reset
 | Port Name                 | Direction     | Size          | Description                                                                    |
 |           :---:           |     :---:     |    :---:      |                                     :---:                                      |
 | clk                       | IN            | 1             | Clock signal                                                                   |
