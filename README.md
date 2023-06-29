@@ -1,6 +1,6 @@
 # Pipeline_Max
 
-
+![Max_Pipeline Diagram](https://github.com/ElTheScreeps/Pipeline_Max/assets/115155585/1910d74b-3376-4778-8ab5-5497227f8344)
 
 The interface of the circuit for maximum determination is presented in the following tables.
 
@@ -18,3 +18,14 @@ The interface of the circuit for maximum determination is presented in the follo
 | max_val                   | OUT           | 1             | Valid data delivered                                                           |
 | max_rdy                   | IN            | 1             | Module is ready to accept data                                                 |
 | max_data                  | OUT           | DATA_WIDTH    | Data representing the maximum, DATA_WIDTH bits                                 |
+
+When the numbers are equal, the value 0 will be displayed on max_data
+
+How to use this files:
+
+1. Downlaod the files;
+2. Put them in a directory;
+3. Open Modelsim;
+4. Change directory to the directory who contain the files;
+5. Create a project and add the files;
+6. Compile the files and start stimulate.
