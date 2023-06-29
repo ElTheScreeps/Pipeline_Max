@@ -19,7 +19,7 @@ The interface of the circuit for maximum determination is presented in the follo
 | max_rdy                   | IN            | 1             | Module is ready to accept data                                                 |
 | max_data                  | OUT           | DATA_WIDTH    | Data representing the maximum, DATA_WIDTH bits                                 |
 
-When the numbers are equal, the value 0 will be displayed on max_data
+When the numbers are equal, the value 0 will be displayed on max_data.
 
 How to use this files:
 
