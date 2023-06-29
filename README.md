@@ -1,5 +1,9 @@
 # Pipeline_Max
 
+
+
+The interface of the circuit for maximum determination is presented in the following tables.
+
 | Parameter Name            | Default Value | Value Domain  | Description                                                                    |
 |           :---:           |     :---:     |    :---:      |                                     :---:                                      |
 | DATA_WIDTH                | 8             | ≥ 1           | Size of the data                                                               |
