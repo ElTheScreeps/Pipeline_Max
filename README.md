@@ -23,7 +23,7 @@ When the numbers are equal, the value 0 will be displayed on max_data.
 
 How to use this files:
 
-1. Downlaod the files;
+1. Download the files;
 2. Put them in a directory;
 3. Open Modelsim;
 4. Change directory to the directory who contain the files;
